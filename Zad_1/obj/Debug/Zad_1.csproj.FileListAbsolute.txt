@@ -1,0 +1,8 @@
+C:\Users\Justyna Kowalkowska\Desktop\LABORATORIUM - Programowanie Komputerów\Zajecia3\Zad_1\bin\Debug\Zad_1.exe.config
+C:\Users\Justyna Kowalkowska\Desktop\LABORATORIUM - Programowanie Komputerów\Zajecia3\Zad_1\bin\Debug\Zad_1.exe
+C:\Users\Justyna Kowalkowska\Desktop\LABORATORIUM - Programowanie Komputerów\Zajecia3\Zad_1\bin\Debug\Zad_1.pdb
+C:\Users\Justyna Kowalkowska\Desktop\LABORATORIUM - Programowanie Komputerów\Zajecia3\Zad_1\obj\Debug\Zad_1.csproj.AssemblyReference.cache
+C:\Users\Justyna Kowalkowska\Desktop\LABORATORIUM - Programowanie Komputerów\Zajecia3\Zad_1\obj\Debug\Zad_1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Justyna Kowalkowska\Desktop\LABORATORIUM - Programowanie Komputerów\Zajecia3\Zad_1\obj\Debug\Zad_1.csproj.CoreCompileInputs.cache
+C:\Users\Justyna Kowalkowska\Desktop\LABORATORIUM - Programowanie Komputerów\Zajecia3\Zad_1\obj\Debug\Zad_1.exe
+C:\Users\Justyna Kowalkowska\Desktop\LABORATORIUM - Programowanie Komputerów\Zajecia3\Zad_1\obj\Debug\Zad_1.pdb
