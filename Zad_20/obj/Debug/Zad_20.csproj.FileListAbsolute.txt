@@ -1,0 +1,7 @@
+C:\Users\Justyna Kowalkowska\Desktop\LABORATORIUM - Programowanie Komputerów\Zajecia3\Zad_20\bin\Debug\Zad_20.exe.config
+C:\Users\Justyna Kowalkowska\Desktop\LABORATORIUM - Programowanie Komputerów\Zajecia3\Zad_20\bin\Debug\Zad_20.exe
+C:\Users\Justyna Kowalkowska\Desktop\LABORATORIUM - Programowanie Komputerów\Zajecia3\Zad_20\bin\Debug\Zad_20.pdb
+C:\Users\Justyna Kowalkowska\Desktop\LABORATORIUM - Programowanie Komputerów\Zajecia3\Zad_20\obj\Debug\Zad_20.csproj.SuggestedBindingRedirects.cache
+C:\Users\Justyna Kowalkowska\Desktop\LABORATORIUM - Programowanie Komputerów\Zajecia3\Zad_20\obj\Debug\Zad_20.csproj.CoreCompileInputs.cache
+C:\Users\Justyna Kowalkowska\Desktop\LABORATORIUM - Programowanie Komputerów\Zajecia3\Zad_20\obj\Debug\Zad_20.exe
+C:\Users\Justyna Kowalkowska\Desktop\LABORATORIUM - Programowanie Komputerów\Zajecia3\Zad_20\obj\Debug\Zad_20.pdb
