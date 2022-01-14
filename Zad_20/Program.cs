@@ -18,7 +18,7 @@ namespace Zad_20
             {
                 s = s + j;
                 j = j + 2;
-                Console.WriteLine("S = {0}, j = {1}, i = {2}", s, j, i);
+                Console.WriteLine("s = {0}, j = {1}, i = {2}", s, j, i);
                 i++;
             }
 
